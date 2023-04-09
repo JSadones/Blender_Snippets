@@ -2,6 +2,7 @@ import bpy
 import collections
 import json
 
+#https://blender.stackexchange.com/questions/241283/uilist-selection-issues-when-clicking-on-icon-but-not-in-dropdown
 
 def select_current_selset(self, context):
     """Selection"""
